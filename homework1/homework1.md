@@ -213,3 +213,31 @@ https://developer.nvidia.com/install-nsight-visual-studio-edition
 
 ![image-20221014102222362](homework1.assets/image-20221014102222362.png)
 
+
+
+
+
+
+
+# 实验准备工作
+
+## 激活Windows专业版
+
+采用学校的正版软件激活Windows专业版
+
+![image-20221014193642017](homework1.assets/image-20221014193642017.png)
+
+## 配置office2021专业版
+
+从学校正版软件获取专业版软件，同时采用客户端激活office套件
+
+![image-20221014193718063](homework1.assets/image-20221014193718063.png)
+
+## 下载配置vs2022
+
+配置以下安装文件
+
+![image-20221014193950514](homework1.assets/image-20221014193950514.png)
+
+![image-20221014194008398](homework1.assets/image-20221014194008398.png)
+
