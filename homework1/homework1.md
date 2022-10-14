@@ -179,6 +179,10 @@ https://developer.nvidia.com/install-nsight-visual-studio-edition
 
 ![image-20221014101518265](homework1.assets/image-20221014101518265.png)
 
+![image-20221014143241013](homework1.assets/image-20221014143241013.png)
+
+![image-20221014143336440](homework1.assets/image-20221014143336440.png)
+
 ## conda创建虚拟环境
 
 已经下载安装了anaconda  首先将anaconda下载源添加
